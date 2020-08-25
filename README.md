@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 Hi, I'm Md. Shadab Azam Ansari, a passionate full stack web developer from Sitahmarhi, Bihar,India
+😄 Hi, I'm Md. Shadab Azam Ansari, a passionate full stack web developer from Sitamarhi, Bihar,India
 <br>
 <br>
 ⚡[My Portfolio](http://tipusam.tech/?i=1)
