@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 ⚡[My Portfolio](http://tipusam.tech/?i=1)
 <br>
-💬 Ask me about anything [here](https://github.com/tipuboyy123/github-readme-stats)
+💬 Contact [here](samtipu20016@gmail.com)
 <br><br>
 I’m a Freelancer,currently living in new delhi. I spend my days with my hands in many different areas of web development from back end (PHP, Django/Python, Ruby on Rails) to front end design(HTML, CSS, and jQuery/Javascript), digital accessibility, user experience and visual design. I’m extremely passionate about web development and design in all it’s forms and helping small businesses and artisans build and improve their online presence. Aside from web development i also spend some hrs in competitive code. 
 
